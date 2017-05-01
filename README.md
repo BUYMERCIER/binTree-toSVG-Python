@@ -7,8 +7,7 @@
 - Then install pygraphviz for Python3
 `pip3 install pygraphviz`
 
-- Download toSVG.py
-https://raw.githubusercontent.com/BUYMERCIER/binTree-toSVG-Python/master/toSVG.py
+- Download toSVG.py [here](https://raw.githubusercontent.com/BUYMERCIER/binTree-toSVG-Python/master/toSVG.py)
 
 In your Python file, import toSVG.py
 `from toSVG import *`
